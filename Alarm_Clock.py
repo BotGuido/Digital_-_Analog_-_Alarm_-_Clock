@@ -1,3 +1,5 @@
+# pip install playsound
+
 from datetime import datetime
 from playsound import playsound
 alarm_time = input("Enter the time of alarm to be set:HH:MM:SS:(AM/PM)\n")
